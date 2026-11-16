@@ -10,6 +10,7 @@ I build IoT systems for agriculture end to end: ESP32 firmware with real safety 
 |---|---|
 | [**queen-bee-incubator**](https://github.com/Mariam-zeqred/queen-bee-incubator) | Incubator controller for honey-bee queen rearing. ESP32 + FreeRTOS, hysteresis control tuned from a 24-hour thermal campaign, independent 10 Hz safety task, SD + Firebase logging, OTA updates, two Flutter apps (beekeeper and engineering). Published in *J. Computer Science and Engineering Research* 3(1), 2026, [DOI 10.64820/AEPJCSER.31.13.22.62026](https://doi.org/10.64820/AEPJCSER.31.13.22.62026). |
 | [**smart-poultry-farm**](https://github.com/Mariam-zeqred/smart-poultry-farm) | Climate controller for a poultry house: temperature, humidity and ammonia sensing, four actuators, hard safety limits, offline LCD control with automatic hand-over, sub-500 ms app-to-device control over Firebase SSE, Flutter app (EN/AR) with push alerts and a vision-AI monitoring tab. Paper in preparation. |
+| [**campus-scooter-rental**](https://github.com/Mariam-zeqred/campus-scooter-rental) | Graduation project: e-scooter rental for a closed campus. ESP32 scooter controller (five-state safety machine, BLE + MQTT) ported from the surviving prototype sketch, and the AWS serverless back end as CDK. Host-tested; not flashed or deployed. |
 | [**Fire-and-Motion-Detection**](https://github.com/Mariam-zeqred/Fire-and-Motion-Detection) | Earlier embedded sensing project. |
 
 ## Skills
